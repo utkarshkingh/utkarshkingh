@@ -11,7 +11,7 @@
 - 🔭 AI Software Engineer (Working Student) **@ Siemens AG** — building multi-agent backends, RAG pipelines, and production observability on Azure.
 - 🧠 Previously at **Siemens Healthineers** (medical imaging / deep learning) and **JSW Group** (predictive maintenance & forecasting).
 - 🎓 **MSc. Computational Engineering (CS) @ FAU Erlangen** — thesis on real-time computer vision for 3D medical imaging.
-- 🌱 Currently exploring **Large Multimodal Models** and agentic workflows.
+- 🌱 Currently exploring **Small Multimodal Models** and agentic workflows.
 - 📫 Reach me at **theutkarshsingh@gmail.com**
 
 ## 🚀 Projects
